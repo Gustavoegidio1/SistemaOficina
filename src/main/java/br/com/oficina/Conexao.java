@@ -11,7 +11,7 @@ public class Conexao {
 
         String url = System.getenv().getOrDefault(
                 "DB_URL",
-                "jdbc:mysql://localhost:3306/SistemaOficina"
+                "jdbc:mysql://localhost:3306/sistemaoficina"
         );
 
         String usuario = System.getenv().getOrDefault(
