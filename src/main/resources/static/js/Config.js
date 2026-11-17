@@ -4,7 +4,7 @@ window.Oficina = {
     views: {},
 
     config: {
-        API_BASE_URL: 'http://localhost:8080/api',
+        API_BASE_URL: '/api',
 
         USE_DEMO: false,
 
